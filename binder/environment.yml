@@ -1,9 +1,13 @@
 name: finbif-observation-trends-r-tool
 channels:
   - conda-forge
+  - nodefaults
 dependencies:
-  - r-base
-  - r-finbif
+  - python=3.10
+  - jupyterlab
+  - r-base=4.3
+  - r-irkernel
+  - r-remotes
   - r-dplyr
   - r-ggplot2
   - r-lubridate

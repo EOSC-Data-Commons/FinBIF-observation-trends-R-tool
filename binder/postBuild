@@ -1,0 +1,6 @@
+#!/bin/bash
+
+set -eux
+
+# Install finbif from CRAN using remotes
+Rscript -e "remotes::install_cran(c('finbif'), repos='https://cloud.r-project.org')"
