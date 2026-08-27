@@ -1,0 +1,12 @@
+name: finbif-observation-trends-r-tool
+channels:
+  - conda-forge
+dependencies:
+  - r-base
+  - r-finbif
+  - r-dplyr
+  - r-ggplot2
+  - r-lubridate
+  - r-leaflet
+  - r-sf
+  - r-ggspatial
