@@ -1,5 +1,8 @@
 # Species Observation Trends with FinBIF R Package
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EOSC-Data-Commons/FinBIF-observation-trends-R-tool/HEAD) 
+[![Replay](https://img.shields.io/badge/launch-EGI%20Replay-F5A252.svg)](https://replay.notebooks.egi.eu/v2/gh/EOSC-Data-Commons/FinBIF-observation-trends-R-tool/HEAD)
+
 Analyze temporal and geographic patterns of biodiversity observations using the FinBIF R package.
 
 ## Overview
